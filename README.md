@@ -38,12 +38,12 @@ SwiftData: Ensure your project is configured for SwiftData.
 
 Installation
 
-Clone the Repository:
-git clone https://github.com/your-username/SwiftUI-WordList.git
-cd SwiftUI-WordList
+Clone the Repository
+
+cd 
 
 
-Open in Xcode:
+Open in Xcode
 
 Open the .xcodeproj or .xcworkspace file in Xcode:open LanguageStudyApp.xcodeproj
 
