@@ -13,7 +13,7 @@ Clean Design: Minimalist interface with emoji-based visual cues (📝, 📖, �
 Also testing yourself with new words
 
 📸 Screenshots
-(Add screenshots here once available, e.g., word list view, edit screen, etc.)
+
 
 
 
